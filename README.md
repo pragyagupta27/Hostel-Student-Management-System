@@ -15,4 +15,4 @@
 3. The mysql jdbc driver should be added in the library folder of the project and it should be the same version as of the mysql version installed in your pc.
 
 ### To run this application:
-CLICK ON **Front_page.java** and to run the application, press the shortcut key, Shift+F6 and enjoy using the application. :)
+Click on **Front_page.java** and to run the application, press the shortcut key, Shift+F6 and enjoy using the application. :)
