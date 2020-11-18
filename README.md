@@ -31,5 +31,5 @@ Some glimpses of this application:
 <img src="https://github.com/pragyagupta27/Hostel-Student-Management-System/blob/main/Screenshot%20(5).png">
 <img src="https://github.com/pragyagupta27/Hostel-Student-Management-System/blob/main/Screenshot%20(6).png">
 <img src="https://github.com/pragyagupta27/Hostel-Student-Management-System/blob/main/Screenshot%20(8).png">
-<img src="https://github.com/pragyagupta27/Hostel-Student-Management-System/blob/main/Screenshot%20(12).png>
-<img src="https://github.com/pragyagupta27/Hostel-Student-Management-System/blob/main/Screenshot%20(13).png>          
+<img src="https://github.com/pragyagupta27/Hostel-Student-Management-System/blob/main/Screenshot%20(12).png">
+<img src="https://github.com/pragyagupta27/Hostel-Student-Management-System/blob/main/Screenshot%20(13).png">          
