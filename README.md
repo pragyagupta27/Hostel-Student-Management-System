@@ -16,3 +16,7 @@
 
 ### To run this application:
 Click on **Front_page.java** and to run the application, press the shortcut key, Shift+F6 and enjoy using the application. :)
+
+Some glimpses of this application:
+
+<img src="https://github.com/pragyagupta27/Hostel-Student-Management-System/Screenshot(5)png>
